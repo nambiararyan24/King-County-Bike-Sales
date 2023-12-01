@@ -1,5 +1,5 @@
 Housing data holds insights but requires thoughtful analysis and impactful visuals. In this post, I’ll walk through building a King County house sales dashboard in Tableau - from planning to validation. Follow along as we construct visualizations, filters, and layouts in crafting an interactive data story published via Tableau Public. You’ll learn concrete dashboard development steps to engage stakeholders.
-
+![image](https://github.com/nambiararyan24/King-County-Bike-Sales/assets/122199881/e3e15e5c-6d32-46bf-b035-75089e82b96b)
 ## Step 1 - Gathering Data and Planning the Dashboard
 
 - **Defining Dashboard Components:** Plan the dashboard components—filters, visuals, and their interaction.
